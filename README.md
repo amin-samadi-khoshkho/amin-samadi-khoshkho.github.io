@@ -17,9 +17,5 @@ I designed and deployed an LLM-powered chatbot using LangChain and LangFlow, enh
 **Deep Learning for Robotic Motion Planning**
 
 ## Publications
-- Samadi Khoshkho, Mohammadamin, Zahra Samadikhoshkho, and Michael G. Lipsett., ”Distilled neural state-dependent Riccati
-equation feedback controller for dynamic control of a cable-driven continuum robot” , International Journal of Advanced Robotic
-Systems 20, no. 3 (2023). [https://doi.org/10.1137/1.9781611978032.94](https://doi.org/10.1137/1.9781611978032.94)
-- Lu Qikai, Di Niu, Mohammadamin Samadi Khoshkho, and Baochun Li., ”Hyperflora: Federated learning with instantaneous
-personalization.”, Proceedings of the 2024 SIAM International Conference on Data Mining (SDM), pp. 824-832. Society for Indus-
-trial and Applied Mathematics, 2024. [https://doi.org/10.1137/1.9781611978032.94](https://doi.org/10.1137/1.9781611978032.94)
+- ”Distilled neural state-dependent Riccati equation feedback controller for dynamic control of a cable-driven continuum robot”, Samadi Khoshkho, Mohammadamin, Zahra Samadikhoshkho, and Michael G. Lipsett. , International Journal of Advanced Robotic Systems 20, no. 3 (2023). [https://doi.org/10.1137/1.9781611978032.94](https://doi.org/10.1137/1.9781611978032.94)
+- ”Hyperflora: Federated learning with instantaneous personalization.”, Lu Qikai, Di Niu, Mohammadamin Samadi Khoshkho, and Baochun Li., Proceedings of the 2024 SIAM International Conference on Data Mining (SDM), pp. 824-832. Society for Industrial and Applied Mathematics, 2024. [https://doi.org/10.1137/1.9781611978032.94](https://doi.org/10.1137/1.9781611978032.94)
