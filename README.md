@@ -1,9 +1,9 @@
 # Data Scientist / ML Engineer
 
 ## Education
-- MSc in Software Engineering & Intelligent Systems, University of Alberta
-- MSc in Mechanical Engineering (Control & AI), University of Tehran
-- BSc in Mechanical Engineering, Sharif University of Technology
+• MSc in Software Engineering & Intelligent Systems, University of Alberta
+• MSc in Mechanical Engineering (Control & AI), University of Tehran
+• BSc in Mechanical Engineering, Sharif University of Technology
 
 ## Projects
 **End-to-End Semantic Search Tool for YouTube Videos from a Specific Channel**
