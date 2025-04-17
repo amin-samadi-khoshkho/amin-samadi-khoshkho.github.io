@@ -1,9 +1,13 @@
 # Data Scientist / ML Engineer
 
 ## Education
-* MSc in Software Engineering and Intelligent Systems, University of Alberta
-* MSc in Mechanical Engineering (Control and AI), University of Tehran
-* BSc in Mechanical Engineering, Sharif University of Technology  
+**University of Alberta** MSc in Software Engineering and Intelligent Systems
+**University of Tehran** MSc in Mechanical Engineering (Control and AI)
+**Sharif University of Technology** BSc in Mechanical Engineering  
 
 ## Projects
-End-to-End Semantic Search Tool for YouTube Videos from a Specific Channel:
+End-to-End Semantic Search Tool for YouTube Videos from a Specific Channel
+
+LLM-Powered Chatbot with RAG and LangChain
+Edmonton Real Estate Price Prediction
+Deep Learning for Robotic Motion Planning
