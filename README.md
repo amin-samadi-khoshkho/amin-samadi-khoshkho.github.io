@@ -1,1 +1,8 @@
-# amin-samadi-khoshkho.github.io
+# Data Scientist / ML Engineer
+
+### Education
+- MSc
+- MSc
+- BSc
+
+### Projects
