@@ -15,3 +15,11 @@ I designed and deployed an LLM-powered chatbot using LangChain and LangFlow, enh
 **Edmonton Real Estate Price Prediction**
 
 **Deep Learning for Robotic Motion Planning**
+
+## Publications
+- Samadi Khoshkho, Mohammadamin, Zahra Samadikhoshkho, and Michael G. Lipsett., ”Distilled neural state-dependent Riccati
+equation feedback controller for dynamic control of a cable-driven continuum robot” , International Journal of Advanced Robotic
+Systems 20, no. 3 (2023). [https://doi.org/10.1137/1.9781611978032.94](https://doi.org/10.1137/1.9781611978032.94)
+- Lu Qikai, Di Niu, Mohammadamin Samadi Khoshkho, and Baochun Li., ”Hyperflora: Federated learning with instantaneous
+personalization.”, Proceedings of the 2024 SIAM International Conference on Data Mining (SDM), pp. 824-832. Society for Indus-
+trial and Applied Mathematics, 2024. [https://doi.org/10.1137/1.9781611978032.94](https://doi.org/10.1137/1.9781611978032.94)
