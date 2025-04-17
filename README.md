@@ -11,5 +11,7 @@
 End-to-End Semantic Search Tool for YouTube Videos from a Specific Channel
 
 LLM-Powered Chatbot with RAG and LangChain
+
 Edmonton Real Estate Price Prediction
+
 Deep Learning for Robotic Motion Planning
