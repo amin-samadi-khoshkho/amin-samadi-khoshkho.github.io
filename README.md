@@ -12,6 +12,9 @@ I built an end-to-end semantic search tool for YouTube videos from a specific ch
 **LLM-Powered Chatbot with RAG and LangChain**\
 I designed and deployed an LLM-powered chatbot using LangChain and LangFlow, enhanced with Retrieval-Augmented Generation (RAG) for smarter, more accurate responses. The system uses LlamaIndex to index and query documents efficiently, allowing the chatbot to provide context-aware answers by grounding its responses in relevant data. This project gave me hands-on experience with cutting-edge tools like OpenAI LLMs, RAG pipelines, and conversational AI systems — all aimed at improving response quality and scalability.
 
+**Breast Cancer Predictor**\
+(check it out here](https://predictcancer-amin.streamlit.app/)
+
 **Edmonton Real Estate Price Prediction**
 
 **Deep Learning for Robotic Motion Planning**
