@@ -7,8 +7,8 @@
 
 ## Projects
 **End-to-End Semantic Search Tool for YouTube Videos from a Specific Channel** [check it out here](https://huggingface.co/spaces/masamadikh/YouTubeSemanticSearch)
-- **What it is:** A FastAPI service that lets you query 3Blue1Brown videos using natural‑language.  
-  - **How you built it:**  
+  - **What it is:** A FastAPI service that lets you query 3Blue1Brown videos using natural‑language.  
+  - **How it is built:**  
     - Fetched titles/transcripts via YouTube API  
     - Processed & embedded data with Sentence Transformers  
     - Semantic search layer to rank relevant clips  
@@ -17,7 +17,7 @@
 
 **ML Web App for Cancer Prediction** [check it out here](https://predictcancer-amin.streamlit.app/)
   - **What it is:** An interactive Streamlit web app that predicts whether a breast mass is benign or malignant based on the Breast Cancer Wisconsin dataset and user‑provided measurements via sliders.
-  - **How you built it:**  
+  - **How it is built:** 
     - Loaded and preprocessed the Breast Cancer Wisconsin dataset with pandas, and trained a classifier.
     - Created a sidebar containing sliders for cell‑nuclei measurements.  
     - Developed a radar chart using Plotly to visualize mean, standard‑error, and worst measurements—scaling inputs in real time.
@@ -27,7 +27,7 @@
 
 **LLM‑Powered Chatbot with RAG & LangChain** 
   - **What it is:** A conversational assistant that grounds answers in external documents.  
-  - **How you built it:**  
+  - **How it is built:** 
     - LangChain + LangFlow for pipeline orchestration  
     - LlamaIndex for efficient document indexing and retrieval  
     - OpenAI LLM for generation, wrapped in a simple interface  
