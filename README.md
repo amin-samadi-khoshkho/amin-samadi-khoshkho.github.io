@@ -6,14 +6,33 @@
 • BSc in Mechanical Engineering, Sharif University of Technology
 
 ## Projects
-**End-to-End Semantic Search Tool for YouTube Videos from a Specific Channel**\
-I built an end-to-end semantic search tool for YouTube videos from a specific channel (3Blue1Brown), designed to help users quickly find relevant content using natural language queries. The tool fetches video titles and transcripts via API, processes and embeds the data, and performs semantic search to return the most relevant results. I wrapped everything in a FastAPI app, containerized it with Docker, and deployed it on AWS using Hugging Face Spaces. It's live and ready to try — [check it out here](https://huggingface.co/spaces/masamadikh/YouTubeSemanticSearch)
+**End-to-End Semantic Search Tool for YouTube Videos from a Specific Channel** [check it out here](https://huggingface.co/spaces/masamadikh/YouTubeSemanticSearch)
+- **What it is:** A FastAPI service that lets you query 3Blue1Brown videos using natural‑language.  
+  - **How you built it:**  
+    - Fetched titles/transcripts via YouTube API  
+    - Processed & embedded data with Sentence Transformers  
+    - Semantic search layer to rank relevant clips  
+  - **Deployment:** Containerized in Docker, deployed to AWS via Hugging Face Spaces  
+  - **Why it matters:** Cuts video‑browsing time by surfacing exact moments matching your query.
 
-**LLM-Powered Chatbot with RAG and LangChain**\
-I designed and deployed an LLM-powered chatbot using LangChain and LangFlow, enhanced with Retrieval-Augmented Generation (RAG) for smarter, more accurate responses. The system uses LlamaIndex to index and query documents efficiently, allowing the chatbot to provide context-aware answers by grounding its responses in relevant data. This project gave me hands-on experience with cutting-edge tools like OpenAI LLMs, RAG pipelines, and conversational AI systems — all aimed at improving response quality and scalability.
+****ML Web App for Cancer Prediction**** [check it out here](https://predictcancer-amin.streamlit.app/)
+  - **What it is:** An interactive Streamlit web app that predicts whether a breast mass is benign or malignant based on the Breast Cancer Wisconsin dataset and user‑provided measurements via sliders.
+  - **How you built it:**  
+    - Loaded and preprocessed the Breast Cancer Wisconsin dataset with pandas, and trained a classifier.
+    - Created a sidebar containing sliders for cell‑nuclei measurements.  
+    - Developed a radar chart using Plotly to visualize mean, standard‑error, and worst measurements—scaling inputs in real time.
+    - Implemented a prediction display that shows class (benign/malignant) and probabilities.
+  - **Deployment:** Hosted on Streamlit Community Cloud with continuous integration from GitHub for seamless updates.
+  - **Why it matters:** Demonstrates a complete end‑to‑end ML application pipeline—enabling rapid prototyping of diagnostic tools that can assist medical professionals with an intuitive interface.
 
-**Breast Cancer Predictor**\
-[check it out here](https://predictcancer-amin.streamlit.app/)
+**LLM‑Powered Chatbot with RAG & LangChain** 
+  - **What it is:** A conversational assistant that grounds answers in external documents.  
+  - **How you built it:**  
+    - LangChain + LangFlow for pipeline orchestration  
+    - LlamaIndex for efficient document indexing and retrieval  
+    - OpenAI LLM for generation, wrapped in a simple interface  
+  - **Deployment:** Hosted on Vercel (or your preferred platform)  
+  - **Why it matters:** Improves answer accuracy by pulling in real‑world context on demand.  
 
 **Edmonton Real Estate Price Prediction**
 
