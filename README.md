@@ -15,7 +15,7 @@
   - **Deployment:** Containerized in Docker, deployed to AWS via Hugging Face Spaces  
   - **Why it matters:** Cuts video‑browsing time by surfacing exact moments matching your query.
 
-****ML Web App for Cancer Prediction**** [check it out here](https://predictcancer-amin.streamlit.app/)
+**ML Web App for Cancer Prediction** [check it out here](https://predictcancer-amin.streamlit.app/)
   - **What it is:** An interactive Streamlit web app that predicts whether a breast mass is benign or malignant based on the Breast Cancer Wisconsin dataset and user‑provided measurements via sliders.
   - **How you built it:**  
     - Loaded and preprocessed the Breast Cancer Wisconsin dataset with pandas, and trained a classifier.
