@@ -35,6 +35,8 @@
   - **Why it matters:** Improves answer accuracy by pulling in real‑world context on demand.  
 
 **Edmonton Real Estate Price Prediction**
+EDA and predicting the price of real estate based on the given features such as location and size, using Python and R
+programming languages
 
 **Deep Learning for Robotic Motion Planning**
 
