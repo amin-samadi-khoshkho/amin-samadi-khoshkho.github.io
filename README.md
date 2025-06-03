@@ -28,7 +28,7 @@
 **LLM‑Powered Chatbot with RAG & LangChain** 
   - **What it is:** A conversational assistant that grounds answers in external documents.  
   - **How it is built:** 
-    - LangChain + LangFlow for pipeline orchestration  
+    - LangChain for pipeline orchestration  
     - LlamaIndex for efficient document indexing and retrieval  
     - OpenAI LLM for generation, wrapped in a simple interface  
   - **Deployment:** Hosted on Vercel (or your preferred platform)  
