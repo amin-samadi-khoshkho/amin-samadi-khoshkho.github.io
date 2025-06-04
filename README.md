@@ -10,6 +10,7 @@
 
 ## Projects
 **End-to-End Semantic Search Tool for YouTube Videos from a Specific Channel** [check it out here](https://huggingface.co/spaces/masamadikh/YouTubeSemanticSearch)
+
 <img src="YTsearch.png" alt="YTsearch" width="650"/>
   - **What it is:** A FastAPI service that lets you query 3Blue1Brown videos using natural‑language.  
   - **How it is built:**  
@@ -21,7 +22,8 @@
 
 
 **ML Web App for Cancer Prediction** [check it out here](https://predictcancer-amin.streamlit.app/)
-<img src="CancerPred" alt="CancerPred" width="650"/>
+
+<img src="CancerPred.png" alt="CancerPred" width="650"/>
   - **What it is:** An interactive Streamlit web app that predicts whether a breast mass is benign or malignant based on the Breast Cancer Wisconsin dataset and user‑provided measurements via sliders.
   - **How it is built:** 
     - Loaded and preprocessed the Breast Cancer Wisconsin dataset with pandas, and trained a classifier.
