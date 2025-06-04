@@ -9,7 +9,7 @@
 ---
 
 ## Projects
-**End-to-End Semantic Search Tool for YouTube Videos from a Specific Channel** [check it out here](https://huggingface.co/spaces/masamadikh/YouTubeSemanticSearch)
+**❖ End-to-End Semantic Search Tool for YouTube Videos from a Specific Channel** [check it out here](https://huggingface.co/spaces/masamadikh/YouTubeSemanticSearch)
 
 <img src="YTsearch.png" alt="YTsearch" width="650"/>
   - **What it is:** A FastAPI service that lets you query 3Blue1Brown videos using natural‑language.  
@@ -21,7 +21,7 @@
   - **Why it matters:** Cuts video‑browsing time by surfacing exact moments matching your query.
 
 
-**ML Web App for Cancer Prediction** [check it out here](https://predictcancer-amin.streamlit.app/)
+**❖ ML Web App for Cancer Prediction** [check it out here](https://predictcancer-amin.streamlit.app/)
 
 <img src="CancerPred.png" alt="CancerPred" width="650"/>
   - **What it is:** An interactive Streamlit web app that predicts whether a breast mass is benign or malignant based on the Breast Cancer Wisconsin dataset and user‑provided measurements via sliders.
@@ -34,7 +34,7 @@
   - **Why it matters:** Demonstrates a complete end‑to‑end ML application pipeline—enabling rapid prototyping of diagnostic tools that can assist medical professionals with an intuitive interface.
 
 
-**LLM‑Powered Chatbot with RAG & LangChain** 
+**❖ LLM‑Powered Chatbot with RAG & LangChain** 
   - **What it is:** A conversational assistant that grounds answers in external documents.  
   - **How it is built:** 
     - LangChain for pipeline orchestration  
@@ -43,10 +43,10 @@
   - **Deployment:** Hosted on Vercel (or your preferred platform)  
   - **Why it matters:** Improves answer accuracy by pulling in real‑world context on demand.  
 
-**Edmonton Real Estate Price Prediction**\
+**❖ Edmonton Real Estate Price Prediction**\
 EDA and predicting the price of real estate based on the given features such as location and size, using Python and R programming languages
 
-**Deep Learning for Robotic Motion Planning**\
+**❖ Deep Learning for Robotic Motion Planning**\
 Developed a motion planning system for a 7-DOF robotic manipulator in Pytorch and Tensorflow using deep reinforcement learning.
 
 ---
