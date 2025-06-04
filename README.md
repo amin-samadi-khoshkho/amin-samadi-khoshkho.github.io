@@ -1,9 +1,12 @@
 # Data Scientist / ML Engineer
+---
 
 ## Education
 • MSc in Software Engineering & Intelligent Systems, University of Alberta\
 • MSc in Mechanical Engineering (Control & AI), University of Tehran\
 • BSc in Mechanical Engineering, Sharif University of Technology
+
+---
 
 ## Projects
 **End-to-End Semantic Search Tool for YouTube Videos from a Specific Channel** [check it out here](https://huggingface.co/spaces/masamadikh/YouTubeSemanticSearch)
@@ -39,6 +42,8 @@ EDA and predicting the price of real estate based on the given features such as 
 
 **Deep Learning for Robotic Motion Planning**\
 Developed a motion planning system for a 7-DOF robotic manipulator in Pytorch and Tensorflow using deep reinforcement learning.
+
+---
 
 ## Publications
 - ”Distilled neural state-dependent Riccati equation feedback controller for dynamic control of a cable-driven continuum robot”, Samadi Khoshkho, Mohammadamin, Zahra Samadikhoshkho, and Michael G. Lipsett. , International Journal of Advanced Robotic Systems 20, no. 3 (2023). [https://doi.org/10.1137/1.9781611978032.94](https://doi.org/10.1137/1.9781611978032.94)
